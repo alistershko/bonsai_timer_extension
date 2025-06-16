@@ -1,0 +1,13 @@
+{
+  "manifest_version": 3,
+  "name": "Bonsai Timer",
+  "version": "0.1.0",
+  "description": "Grow a bonsai by staying focused for a time.",
+
+  "action": {
+    "default_popup": "index.html"
+  },
+
+  "permissions": ["scripting"],
+  "host_permissions": ["http://*/*", "https://*/*"]
+}
