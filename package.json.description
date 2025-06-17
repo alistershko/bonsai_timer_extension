@@ -1,0 +1,14 @@
+// Package Configuration
+//
+// Purpose:
+// - Defines project metadata and dependencies
+// - Configures npm/yarn scripts
+//
+// Features:
+// - Project name, version, and type
+// - Script commands (build, test, lint, etc.)
+// - Dependencies and devDependencies
+// - Other project configuration
+//
+// This file is essential for package management and 
+// defines how the project can be built, tested, and run.
