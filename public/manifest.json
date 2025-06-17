@@ -1,3 +1,16 @@
+// Chrome Extension Manifest
+// Purpose:
+// - Defines the extension metadata, permissions, and components
+// - Required by Chrome Web Store and browser
+// Contains:
+// - Basic metadata (name, version, description)
+// - Action definition (popup configuration)
+// - Background script registration
+// - Required permissions (storage, tabs, scripting, alarms)
+// - Host permissions for AI websites
+// - Icon definitions for different sizes
+// This file follows Chrome Extension Manifest V3 format.
+
 {
   "manifest_version": 3,
   "name": "Bonsai Timer",

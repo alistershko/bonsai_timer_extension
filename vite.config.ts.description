@@ -1,0 +1,14 @@
+// Vite Configuration
+//
+// Purpose:
+// - Configures the Vite build process for the Chrome extension
+// - Defines build inputs, outputs, and plugins
+//
+// Features:
+// - React plugin configuration
+// - Multiple entry points (popup and background script)
+// - Output directory settings
+// - Public directory configuration
+//
+// This file determines how the application source code is
+// transformed into the final Chrome extension bundle.

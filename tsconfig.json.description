@@ -1,0 +1,15 @@
+// TypeScript Configuration
+//
+// Purpose:
+// - Configures the TypeScript compiler options
+// - Defines how TypeScript code is compiled
+//
+// Features:
+// - Target JavaScript version
+// - Module system configuration
+// - Type checking rules
+// - Path aliases (if any)
+// - Included/excluded files
+//
+// This file ensures consistent TypeScript compilation
+// across different developers and environments.
