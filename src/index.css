@@ -1,3 +1,13 @@
+/* Global CSS Styles */
+/* Purpose: */
+/* - Defines global styles for the extension */
+/* - Sets base typography, colors, and layouts */
+/* Features: */
+/* - Base styling (fonts, colors, spacing) */
+/* - Reset styles for consistent rendering */
+/* - Global variables (if any) */
+
+
 :root {
   font-family: system-ui, Avenir, Helvetica, Arial, sans-serif;
   line-height: 1.5;

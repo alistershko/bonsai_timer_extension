@@ -1,3 +1,14 @@
+/* App-specific CSS Styles */
+/* Purpose: */
+/* - Styles specific to the App component and shared UI elements */
+/* - Defines the visual appearance of the extension */
+/* Features: */
+/* - Component styling (timer, form, bonsai tree, collection) */
+/* - Layout rules */
+/* - Color scheme */
+/* - Responsive design for the popup */
+
+
 #root {
   max-width: 1280px;
   margin: 0 auto;
